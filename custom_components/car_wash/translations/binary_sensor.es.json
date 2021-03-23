@@ -1,0 +1,8 @@
+{
+  "state": {
+    "car_wash__": {
+      "off": "No debe lavarse",
+      "on": "Vale la pena lavarlo"
+    }
+  }
+}
